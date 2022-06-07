@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">to do</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="data">Data</string>
+    <string name="respons_vel">Responsável</string>
+    <string name="descri_o">Descrição</string>
+    <string name="nome">Nome</string>
+    <string name="em_andamento">Em andamento</string>
+    <string name="salvar">salvar</string>
+    <string name="Nome">Nome</string>
+    <string name="descricao">Descricao</string>
+    <string name="responsavel">Responsavel</string>
+    <string name="Salvar">Salvar</string>
+    <string name="Em_andamento">Em andamento</string>
+    <string name="Data">Data</string>
+</resources>
