@@ -82,12 +82,12 @@
         android:layout_marginTop="32dp"
         android:layout_marginEnd="32dp"
         android:minHeight="48dp"
+        android:text="Em andamento"
         android:textColor="@color/black"
         android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/editData"
-        tools:text="Em andamento" />
+        app:layout_constraintTop_toBottomOf="@+id/editData" />
 
     <Spinner
         android:id="@+id/spinnerCategoria"
